@@ -1,9 +1,12 @@
-- 👋 Hi, Myself [Mohammad Ansil](https://github.com/MasterOfBrokenLogic)
-- 👀 I’m interested in Coding fun projects like Botnets, Ddos tools, Token Loggers and Remote Code Execution Tools :)
-- 🌱 I’m currently learning BCA
-- 💞️ I’m looking for collaborations on my Discord Token Logger coded using Rust and also Python.
-- 📫 You can reach me on [Whatsapp](https://wa.me/message/FUQ35AQ6J7R5L1)
-- ⚡ Fun fact: My biggest personal goal for my life is becoming an IAF Pilot ⌞✈⌝
+### 👋 Hi, I'm [Mohammad Ansil](https://github.com/MasterOfBrokenLogic)
+
+- **👀 Passionate About:** Coding fun and challenging projects, including botnets, DDoS tools, Token loggers, and Remote Code Execution tools.
+- **🌱 Currently Learning:** BCA
+- **💞 Seeking Collaborations:** If you're interested in working on a Discord Token Logger built with Rust and Python, let's connect!
+- **📫 Reach Out:** Feel free to message me on [WhatsApp](https://wa.me/message/FUQ35AQ6J7R5L1).
+- **🌐 Explore More:** Check out my [Portfolio](https://drazeforce.vercel.app) for a deeper look into my work.
+- **⚡ Fun Fact:** My ultimate life goal is to become an Indian Air Force Pilot ⌞✈⌝.
+
 
 <!---
 MasterOfBrokenLogic/MasterOfBrokenLogic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
