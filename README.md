@@ -5,7 +5,7 @@
 - **💞 Seeking Collaborations:** If you're interested in working on a Discord Token Logger built with Rust and Python, let's connect!
 - **📫 Reach Out:** Feel free to message me on [WhatsApp](https://wa.me/message/FUQ35AQ6J7R5L1).
 - **🌐 Explore More:** Check out my [Portfolio](https://drazeforce.vercel.app) for a deeper look into my work.
-- **⚡ Fun Fact:** My ultimate life goal is to become an Indian Air Force Pilot ⌞✈⌝.
+- **⚡ Goal:** To join the Indian Air Force or the Indian Armed Forces and serve my country with pride⌞✈⌝.
 
 
 <!---
